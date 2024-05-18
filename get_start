@@ -1,0 +1,7 @@
+# 快速部署环境
+
+# 进入虚拟环境
+conda activate myenv
+
+# 安装所需要的库
+conda env create -f environment.yml
